@@ -1,0 +1,9 @@
+[submodule "products"]
+	path = products
+	url = https://github.com/Elmessoudizakaria/products.git
+[submodule "shell"]
+	path = shell
+	url = https://github.com/Elmessoudizakaria/shell.git
+[submodule "search-bar"]
+	path = search-bar
+	url = https://github.com/Elmessoudizakaria/search-bar.git
